@@ -20,3 +20,6 @@ eureka:
     lease-renewal-interval-in-seconds: 5
 #   租约到期时间（默认90秒），如下所示，告诉服务端如果我 10s 之内没有给你发心跳，就代表我"死"了，将我踢出掉
     lease-expiration-duration-in-seconds: 15
+
+test:
+  msg: hello,github!
