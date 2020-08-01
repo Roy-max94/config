@@ -22,4 +22,4 @@ eureka:
     lease-expiration-duration-in-seconds: 15
 
 test:
-  msg: hello,github!哈喽
+  msg: hello,github!
