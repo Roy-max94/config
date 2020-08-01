@@ -31,3 +31,5 @@ logging:
   level:
     com:
       loyi: debug
+test:
+  msg: consumer
